@@ -12,4 +12,5 @@ print('New Version')
 #git branch develop
 #git branch
 #git checkout develop       para pasar a la rama "develop"
+#git chechout master        para pasar a la rama "main"
 #clear      para limpiar la terminal
