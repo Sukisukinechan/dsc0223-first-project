@@ -9,3 +9,7 @@ print('Hello World')
 print('New Version')
 
 #git log        para poder ver todos los commits que hemos hecho
+#git branch develop
+#git branch
+#git checkout develop       para pasar a la rama "develop"
+#clear      para limpiar la terminal
