@@ -14,3 +14,7 @@ print('New Version')
 #git checkout develop       para pasar a la rama "develop"
 #git chechout master        para pasar a la rama "main"
 #clear      para limpiar la terminal
+#git merge develop      estando en la "main", el comando te actualiza la info de develop
+
+#git remote add origin https://github.com/Sukisukinechan/dsc0223-first-project.git
+#git push -u origin develop
